@@ -1,0 +1,95 @@
+{
+  "title": "What are compiler directives?",
+  "outline": [
+    {
+      "level": "H3",
+      "text": "OpenACC benefits to programmers",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "What are compiler directives?",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Parallel vs. Loop Constructs",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Multiple level of Parallelism",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "accelerating loops with OpenACC",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "#pragma acc kernels",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "The parallel construct is more prescriptive.",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "Second Edition  (2010, 2013)",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "Hands-on Approach",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "In kernel directive",
+      "page": 57
+    },
+    {
+      "level": "H3",
+      "text": "By using asynchronous behavior it is possible to concurrently use",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "for (int i=0; i<N; i++)  A[i] = 1;",
+      "page": 61
+    },
+    {
+      "level": "H3",
+      "text": "REDUCTION CLAUSE OPERATORS",
+      "page": 64
+    },
+    {
+      "level": "H3",
+      "text": "OpenACC supports a variety of reduction operators",
+      "page": 64
+    },
+    {
+      "level": "H3",
+      "text": "Using host_data with NVIDIA cuBLAS",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "USING CUDA POINTERS IN OPENACC",
+      "page": 71
+    },
+    {
+      "level": "H3",
+      "text": "Using OpenACC routine directive with CUDA device kernel",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "Calling CUDA device kernel from OpenACC",
+      "page": 76
+    }
+  ]
+}
